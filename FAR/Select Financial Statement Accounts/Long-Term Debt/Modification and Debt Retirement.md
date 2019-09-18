@@ -22,9 +22,9 @@ Why need issue equity security to replace?
     * new pay old.
     * pay call price.
 4. Accounting
-    Know:* `Remaining` Bond Payable
-         * `Remaining` Discount(+Bond Paybale = Carrying Value)
-         * `Remaining` Cost
-         * `Remaining` Cash/Product/Service
+    Know:* `Remaining` Bond Payable.  
+         * `Remaining` Discount(+Bond Paybale = Carrying Value).  
+         * `Remaining` Cost.  
+         * `Remaining` Cash/Product/Service.  
     Get Loss/Gain.
 5. IFRS: same. different term Derecognized = Retirement in GAAP.
