@@ -14,7 +14,7 @@ Why need issue equity security to replace?
 # Debt Retirement
 ------------------
 1. How to work: if mature, no gain/loss, if retired, gain/loss from yeild rate change.  
-2. Condition(`irrevoable trust` exclude becuase Asset Liability sepreately report)
+2. Condition(`Irrevoable trust` exclude becuase Asset Liability sepreately report)
     * Pay fully.  
     * `legally release` by creditor or court
 3. Way to retire
